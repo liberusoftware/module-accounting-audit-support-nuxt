@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-audit-support-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-audit-support",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-audit-support-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/audit-support.md",
+  "presentationPlan": "projects/accounting/nuxt/audit-support.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
